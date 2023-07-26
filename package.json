@@ -1,6 +1,6 @@
 {
   "name": "cocktails-redux",
-  "homepage": "https://EshPikachy.github.io/bar-host-build",
+  "homepage": "https://eshpikachy.github.io/bar-host-build",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,9 +9,6 @@
     "@mui/icons-material": "^5.14.1",
     "@mui/material": "^5.14.1",
     "@mui/styled-engine-sc": "^5.12.0",
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
     "axios": "^1.4.0",
     "bootstrap": "^5.3.0",
     "react": "^18.2.0",
@@ -22,8 +19,7 @@
     "redux": "^4.2.1",
     "redux-thunk": "^2.4.2",
     "styled-components": "^5.3.11",
-    "swiper": "^10.0.4",
-    "web-vitals": "^2.1.4"
+    "swiper": "^10.0.4"
   },
   "scripts": {
     "predeploy": "npm run build",
